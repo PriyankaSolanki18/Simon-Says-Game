@@ -65,7 +65,7 @@ Simon-Says-Game/
 
 ▶️ How to Run the Project
 
--> Clone the repository: git clone https://github.com/your-username/simon-says-game.git<br>
+-> Clone the repository: git clone https://github.com/PriyankaSolanki18/Simon-Says-Game.git<br>
 -> Open index.html in any modern browser.<br>
 -> Press any key and start playing!<br>
 
